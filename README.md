@@ -28,6 +28,13 @@ A cross-platform daily record application for customizable tracking scenarios su
 - Integrated **DeepSeek API** for Chinese note expansion and polishing, while storing the API key locally in macOS Keychain.
 - Wrote core tests for calendar calculation, persistence, backup restoration, export generation, and API request/response formatting.
 
+**Project outcomes**
+
+- Delivered a working macOS desktop application with calendar-based records, customizable record types, image/document attachments, and export workflows.
+- Delivered a Windows single-file HTML version that can be opened directly in a browser without installation.
+- Built a record pipeline from data entry and structured local storage to backup, report export, and later analysis potential.
+- Prepared the project for future extensions such as tagging, trend analysis, and visualization of long-term personal behavior data.
+
 **Technical keywords**
 
 `Swift` · `SwiftUI` · `AppKit` · `iOS` · `HTML/CSS/JavaScript` · `Local Storage` · `PDF Export` · `JSON Persistence` · `API Integration` · `Git/GitHub`
